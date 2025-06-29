@@ -2,7 +2,7 @@
 
 This repository consist of the source code used for producing the results in the paper:
 
-Costa, M., Valença, G., Adorean, C., Moura, F. (2025). _The Relation between Circuity and Mobility Cultures: A Study of 41 European Cities_. Cities
+Costa, M., Valença, G., Adorean, C., & Moura, F. (2025). _The relation between circuity and mobility cultures: A study of 41 European cities_. Cities, 166, 106087. https://www.sciencedirect.com/science/article/pii/S0264275125003877
 
 ### Abstract
 
@@ -50,9 +50,14 @@ If you find this useful, consider citing the associated paper:
 
 ```
 @article{costa2025relation,
-  author={Costa, Miguel and Valença, Gabriel and Adorean, Cristian and and Moura, Filipe},
-  journal={Cities}, 
-  title={The Relation between Circuity and Mobility Cultures: A Study of 41 European Cities}, 
-  year={2025},
+  title = {The relation between circuity and mobility cultures: A study of 41 European cities},
+  journal = {Cities},
+  volume = {166},
+  pages = {106087},
+  year = {2025},
+  issn = {0264-2751},
+  doi = {https://doi.org/10.1016/j.cities.2025.106087},
+  url = {https://www.sciencedirect.com/science/article/pii/S0264275125003877},
+  author = {Miguel Costa and Gabriel Valença and Cristian Adorean and Filipe Moura},
 }
 ```
